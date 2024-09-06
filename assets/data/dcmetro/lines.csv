@@ -1,0 +1,150 @@
+Shady Grove,Red,Rockville
+Rockville,Red,Twinbrook
+Twinbrook,Red,North Bethesda
+North Bethesda,Red,Grosvenor-Strathmore
+Grosvenor-Strathmore,Red,Medical Center
+Medical Center,Red,Bethesda
+Bethesda,Red,Friendship Heights
+Friendship Heights,Red,Tenleytown-AU
+Tenleytown-AU,Red,Van Ness-UDC
+Van Ness-UDC,Red,Cleveland Park
+Cleveland Park,Red,Woodley Park
+Woodley Park,Red,Dupont Circle
+Dupont Circle,Red,Farragut North
+Farragut North,Red,Metro Center
+Metro Center,Red,Gallery Place
+Metro Center,Blue,McPherson Sq
+Metro Center,Orange,McPherson Sq
+Metro Center,Silver,McPherson Sq
+Metro Center,Blue,Federal Triangle
+Metro Center,Orange,Federal Triangle
+Metro Center,Silver,Federal Triangle
+Gallery Place,Red,Judiciary Square
+Gallery Place,Yellow,Mt Vernon Sq
+Gallery Place,Green,Mt Vernon Sq
+Gallery Place,Yellow,Archives
+Gallery Place,Green,Archives
+Judiciary Square,Red,Union Station
+Union Station,Red,NoMa-Gallaudet U
+NoMa-Gallaudet U,Red,Rhode Island Ave
+Rhode Island Ave,Red,Brookland-CUA
+Brookland-CUA,Red,Fort Totten
+Fort Totten,Red,Takoma
+Fort Totten,Yellow,West Hyattsville
+Fort Totten,Green,West Hyattsville
+Fort Totten,Yellow,Georgia Ave-Petworth
+Fort Totten,Green,Georgia Ave-Petworth
+Takoma,Red,Silver Spring
+Silver Spring,Red,Forest Glen
+Forest Glen,Red,Wheaton
+Wheaton,Red,Glenmont
+Greenbelt,Yellow,College Park-U of Md
+College Park-U of Md,Yellow,Hyattsville Crossing
+Hyattsville Crossing,Yellow,West Hyattsville
+Greenbelt,Green,College Park-U of Md
+College Park-U of Md,Green,Hyattsville Crossing
+Hyattsville Crossing,Green,West Hyattsville
+Georgia Ave-Petworth,Yellow,Columbia Heights
+Columbia Heights,Yellow,U St
+U St,Yellow,Shaw-Howard U
+Shaw-Howard U,Yellow,Mt Vernon Sq
+Georgia Ave-Petworth,Green,Columbia Heights
+Columbia Heights,Green,U St
+U St,Green,Shaw-Howard U
+Shaw-Howard U,Green,Mt Vernon Sq
+L'Enfant Plaza,Yellow,Archives
+L'Enfant Plaza,Green,Archives
+L'Enfant Plaza,Green,Waterfront
+L'Enfant Plaza,Yellow,Pentagon
+L'Enfant Plaza,Orange,Smithsonian
+L'Enfant Plaza,Silver,Smithsonian
+L'Enfant Plaza,Blue,Smithsonian
+L'Enfant Plaza,Orange,Federal Center SW
+L'Enfant Plaza,Silver,Federal Center SW
+L'Enfant Plaza,Blue,Federal Center SW
+Pentagon,Blue,Arlington Cemetary
+Pentagon,Yellow,Pentagon City
+Pentagon,Blue,Pentagon City
+Pentagon City,Yellow,Crystal City
+Pentagon City,Blue,Crystal City
+Crystal City,Yellow,Ronald Reagan Washington National Airport
+Crystal City,Blue,Ronald Reagan Washington National Airport
+Ronald Reagan Washington National Airport,Yellow,Braddock Rd
+Ronald Reagan Washington National Airport,Blue,Braddock Rd
+Braddock Rd,Yellow,King St-Old Town
+Braddock Rd,Blue,King St-Old Town
+King St-Old Town,Yellow,Eisenhower Ave
+King St-Old Town,Blue,Van Dorn St
+Eisenhower Ave,Yellow,Huntington
+Van Dorn St,Blue,Franconia-Springfield
+Arlington Cemetary,Blue,Rosslyn
+Rosslyn,Orange,Court House
+Rosslyn,Silver,Court House
+Rosslyn,Orange,Foggy Bottom-GWU
+Rosslyn,Silver,Foggy Bottom-GWU
+Rosslyn,Blue,Foggy Bottom-GWU
+Foggy Bottom-GWU,Orange,Farragut West
+Foggy Bottom-GWU,Silver,Farragut West
+Foggy Bottom-GWU,Blue,Farragut West
+Farragut West,Orange,McPherson Sq
+Farragut West,Silver,McPherson Sq
+Farragut West,Blue,McPherson Sq
+Federal Triangle,Orange,Smithsonian
+Federal Triangle,Silver,Smithsonian
+Federal Triangle,Blue,Smithsonian
+Federal Center SW,Orange,Capitol South
+Federal Center SW,Silver,Capitol South
+Federal Center SW,Blue,Capitol South
+Capitol South,Orange,Eastern Market
+Capitol South,Silver,Eastern Market
+Capitol South,Blue,Eastern Market
+Eastern Market,Orange,Potomac Ave
+Eastern Market,Silver,Potomac Ave
+Eastern Market,Blue,Potomac Ave
+Potomac Ave,Orange,Stadium-Armory
+Potomac Ave,Silver,Stadium-Armory
+Potomac Ave,Blue,Stadium-Armory
+Stadium-Armory,Silver,Benning Rd
+Stadium-Armory,Blue,Benning Rd
+Stadium-Armory,Orange,Minnesota Avenue
+Benning Rd,Silver,Capitol Heights
+Benning Rd,Blue,Capitol Heights
+Capitol Heights,Silver,Addison Rd
+Capitol Heights,Blue,Addison Rd
+Addison Rd,Silver,Morgan Blvd
+Addison Rd,Blue,Morgan Blvd
+Morgan Blvd,Silver,Downtown Largo
+Morgan Blvd,Blue,Downtown Largo
+Vienna,Orange,Dunn Loring
+Dunn Loring,Orange,West Falls Church
+West Falls Church,Orange,East Falls Church
+East Falls Church,Silver,McLean
+East Falls Church,Silver,Ballston-MU
+East Falls Church,Orange,Ballston-MU
+Ashburn,Silver,Loudoun Gateway
+Loudoun Gateway,Silver,Washington Dulles International Airport
+Washington Dulles International Airport,Silver,Innovation Center
+Innovation Center,Silver,Herndon
+Herndon,Silver,Reston Town Center
+Reston Town Center,Silver,Wiehle-Reston East
+Wiehle-Reston East,Silver,Spring Hill
+Spring Hill,Silver,Greensboro
+Greensboro,Silver,Tysons
+Tysons,Silver,McLean
+Ballston-MU,Orange,Virginia Sq-GMU
+Ballston-MU,Silver,Virginia Sq-GMU
+Virginia Sq-GMU,Orange,Clarendon
+Virginia Sq-GMU,Silver,Clarendon
+Clarendon,Orange,Court House
+Clarendon,Silver,Court House
+Minnesota Avenue,Orange,Deanwood
+Deanwood,Orange,Cheverly
+Cheverly,Orange,Landover
+Landover,Orange,New Carrollton
+Waterfront,Green,Navy Yard-Ballpark
+Navy Yard-Ballpark,Green,Anacostia
+Anacostia,Green,Congress Heights
+Congress Heights,Green,Southern Ave
+Southern Ave,Green,Naylor Rd
+Naylor Rd,Green,Suitland
+Suitland,Green,Branch Ave
